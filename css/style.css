@@ -1,0 +1,43 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: rgba(49, 71, 89, 0.6);
+  color: #fff;
+  background: url("../img/bg.jpg") top center no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(49, 71, 89, 0.6);
+}
+
+a.color-white {
+  color: white
+}
+
+a {
+  color: #24b7a4;
+}
+
+a:hover {
+  color: #36d8c3;
+  text-decoration: none;
+}
