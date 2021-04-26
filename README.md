@@ -11,4 +11,8 @@ There are three screenshots provided; which are:
 - **Tablet** : `img/screens/tablet.png`
 - **Desktop** : `img/screens/desktop.png`
 
-## Your task is to go through them and try as much as you can to replicate the design provided in the image.
+## Your task is to go through them and try as much as you can to replicate the design provided in the images: *(see below)*
+
+![Mobile](img/screens/mobile.png)
+![Tablet](img/screens/tablet.png)
+![Desktop](img/screens/desktop.png)
